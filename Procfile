@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT findmefreight_1569.wsgi:application
